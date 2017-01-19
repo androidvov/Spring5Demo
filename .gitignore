@@ -10,7 +10,5 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-pom.xml
 spring5InAction.iml
-src/
 target/
